@@ -1,5 +1,5 @@
 import unittest
-from ..simplepuzzles import day_1
+from ..simplepuzzles import day_1, day_2
 
 
 class Day1Test(unittest.TestCase):
